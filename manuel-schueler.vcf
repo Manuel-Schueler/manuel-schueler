@@ -3,8 +3,8 @@ VERSION:3.0
 N:Schüler;Manuel;;;
 FN:Manuel Schüler
 ORG:Security Access
-TITLE:Security Access
 ADR;TYPE=WORK:;;Gewerbepark B9;Lanzenkirchen;;2821;Österreich
 TEL;TYPE=CELL:+4366488769417
 URL:https://www.security-access.at
 END:VCARD
+
